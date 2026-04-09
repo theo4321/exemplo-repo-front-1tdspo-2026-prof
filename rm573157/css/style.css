@@ -1,6 +1,6 @@
 
 body{
-    background-color: oklch(54.6% 0.245 262.881);
+    background-color: #1a1b18;
     color:#d1d1c1;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
@@ -8,18 +8,6 @@ body{
     padding: 20px;
 }
 
-#cabecalho{
-    background-color: #1c2b3c;
-}
-
-#menu ul{
-    list-style: none;
-}
-
-#menu ul li{
-    display: inline-block;
-    width: 20%;
-}
 main{
     max-width: 800px;
     /* margin-top: 0;
@@ -30,12 +18,14 @@ main{
     margin: 0 auto;
 }
 
-h1{
-    background-color: #1c2b3c;
-
+#cabecalho{
+    background-color:#387a7c;
 }
 
-nav{
-    color:#d7d7d7;
+#menu ul{
+    list-style: none;
 }
 
+#menu ul li{
+    display: inline-block; width: 10%;
+}
